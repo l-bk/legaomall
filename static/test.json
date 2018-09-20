@@ -1,0 +1,21 @@
+ {
+ "baseList":[
+ {
+ "title": "送你一朵fua",
+ "url": "https://vux.li/#/zh-CN/demos/swiper",
+  "img": "http://120.24.249.13:38080/attached/image/20170615/20170615142426_933.jpg"
+  
+}, 
+{
+  "url": "https://www.baidu.com/",
+  "img": "http://120.24.249.13:38080/attached/image/20170615/20170615160814_855.jpg",
+ "title" : "送你一辆车"
+}, 
+{
+  "url": "https://cn.vuejs.org/v2/guide/migration-vue-router.html",
+  "img": "http://120.24.249.13:38080/attached/image/20170108/20170108233322_75.jpg",
+  "title": "送你一次旅行"
+}
+
+]
+}
